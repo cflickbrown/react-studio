@@ -32,7 +32,8 @@
   flex-flow: column;
   width: 40%;
   margin-inline: 1em;
-  height: 70vh;
+  min-height: 80vh;
+  height: 50%;
   margin-block: 1em;
   background-color: slateblue;
   justify-content: space-between;
